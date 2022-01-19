@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/57709260/149953127-a4c150e1-f031-4803-b514-c89dc7a92cbb.png)
 #
 ![image](https://user-images.githubusercontent.com/57709260/149953257-d1dbc3f8-3451-4b98-b740-1b27de1ca5ee.png)
-# integrate.py results
+# integral simulation results for x*x
 ![image](https://user-images.githubusercontent.com/57709260/149953842-a10aced7-78b1-44e8-9ec6-20c841e1bf54.png)
 #
 ![image](https://user-images.githubusercontent.com/57709260/149953900-4013e8d3-1241-4da2-850f-320593ffd01b.png)
