@@ -22,3 +22,5 @@
 ![image](https://user-images.githubusercontent.com/57709260/149953965-9251c793-71c9-4608-a6e6-374162196ca8.png)
 # monte carlo results
 ![image](https://user-images.githubusercontent.com/57709260/149954138-c6eb454b-c40a-4849-b2a3-ce4f56e52f1b.png)
+# probabilistic_version_of_random_walk
+![image](https://user-images.githubusercontent.com/57709260/152602845-ae62fd04-7f90-4ed7-a575-cb545b1295ad.png)
